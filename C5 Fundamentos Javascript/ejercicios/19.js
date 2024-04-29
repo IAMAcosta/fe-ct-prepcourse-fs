@@ -1,4 +1,6 @@
 function suma(x, y) {
+
+  return (x+y);
   // La función recibe dos argumentos llamados "x" e "y" que son números.
   // Retorna el resultado de la suma de estos argumentos.
   // Por ejemplo: 

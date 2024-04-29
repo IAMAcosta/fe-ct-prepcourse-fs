@@ -1,4 +1,6 @@
 function multiplica(x, y) {
+
+  return x*y;
   // La función recibe dos argumentos llamados "x" e "y" que son números.
   // Retorna el resultado de la multiplicacion de estos argumentos.
   // Por ejemplo: 
